@@ -1,0 +1,124 @@
+/* logo amazon */
+#superiore {
+  background-color: rgb(39, 50, 65);
+}
+
+.logosup {
+  height: 3em;
+  padding: 0.5em;
+}
+
+/* tasti di navigazione */
+#navigazione {
+  background-color: rgb(57, 73, 89);
+  padding: 0.5em;
+}
+
+.linksup {
+  color: white;
+  padding: 0.5em;
+}
+
+/* colore di background del body */
+body {
+  background-color: #e8eced;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* parte superiore del main */
+.orange {
+  background-color: #f56600;
+  text-align: center;
+  padding: 0.5em;
+  margin: 2.5% 2%;
+}
+
+.fontwhite {
+  color: white;
+}
+
+#backgreen {
+  background-image: url(../images/bg-image.png);
+  background-size: cover;
+  margin: 2% 2%;
+  padding: 1%;
+}
+
+.g1 {
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  padding: 1%;
+}
+
+.g2 {
+  color: white;
+  text-align: center;
+  font-size: 1.3em;
+  padding: 1%;
+}
+
+/* sezione immagini */
+#cards {
+  background-color: white;
+  margin: 2% 2%;
+  text-align: center;
+}
+
+.image {
+  width: 400px;
+  height: 500px;
+  border-radius: 4%;
+  margin: 1em;
+  box-shadow: 6px 4px 15px 1px rgba(0, 0, 0, 0.77);
+}
+
+figcaption {
+  font-weight: bold;
+  text-align: center;
+  padding: 0.5em;
+  margin-bottom: 2%;
+}
+
+p {
+  font-weight: bold;
+  padding: 1em;
+  font-size: 1em;
+  text-align: left;
+}
+
+span {
+  color: #327a82;
+}
+
+#immaginiSott {
+  text-align: center;
+}
+
+.image2 {
+  width: 96%;
+}
+
+/* parte inferiore */
+
+footer {
+  text-align: center;
+}
+
+.buttonUp {
+  background-color: rgb(57, 73, 89);
+  padding: 1em;
+}
+
+.tornaSu {
+  color: white;
+}
+
+.bloccologoinf {
+  background-color: #273241;
+  padding: 2em;
+}
+
+.logoinf {
+  height: 3em;
+}
